@@ -3,7 +3,7 @@ Created by Christopher Wong: 8-4-22
 
 Last updated: 1-19-25
 ## Overview
-This project focuses on analyzing Portuguese "Vinho Verde" red and white wine datasets, aiming to clean, explore, and model the data to predict wine quality.
+This Python project focuses on analyzing Portuguese "Vinho Verde" red and white wine datasets, aiming to clean, explore, and model the data to predict wine quality.
 
 Dataset used: https://www.kaggle.com/datasets/saigeethac/red-and-white-wine-quality-datasets
 
@@ -11,11 +11,11 @@ Libraries used: `pandas`, `seaborn`, `scikit-learn`, `matplotlib.pyplot`.
 
 ---
 ## Project Goal
-The main objectives of the project are:
-- To predict wine quality ratings based on physicochemical attributes.
-- To explore the relationship between key factors such as alcohol content, pH levels, and quality.
-- To evaluate the effectiveness of the KNN algorithm for wine quality classification.
-- To identify areas for improvement in wine quality prediction through advanced techniques.
+The main objectives of the project are to:
+- Predict wine quality ratings based on physicochemical attributes.
+- Explore the relationship between key factors such as alcohol content, pH levels, and quality.
+- Evaluate the effectiveness of the KNN algorithm for wine quality classification.
+- Identify areas for improvement in wine quality prediction through advanced techniques.
 
 ---
 ## Key Steps
