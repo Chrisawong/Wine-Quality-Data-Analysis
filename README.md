@@ -5,6 +5,8 @@ Last updated: 1-19-25
 ## Overview
 This project focuses on analyzing Portuguese "Vinho Verde" red and white wine datasets, aiming to clean, explore, and model the data to predict wine quality.
 
+Dataset used: https://www.kaggle.com/datasets/saigeethac/red-and-white-wine-quality-datasets
+
 Libraries used: `pandas`, `seaborn`, `scikit-learn`, `matplotlib.pyplot`.
 
 ---
